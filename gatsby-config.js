@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'SEO-TH by Blog9t',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'การทํา seo คือกระบวนการที่เราพยายามทำทุกอย่างเพื่อดันอันเว็บไซต์ของเราให้ติดหน้าแรก Google ทำทุกอย่างเป็นไปเพื่อดันเว็บไซต์ของเรา(ทําเว็บให้ติดหน้าแรก google) ให้ได้ ซึงทั้งหมดทั้งมวลมี นิยามของ SEO อาจจะต่างมุมมองอยู่ที่ว่าเราจะมองมุมไหนสำหรับผมแล้วผมทํา SEO ด้วยตัวเอง',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
