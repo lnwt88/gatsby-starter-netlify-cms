@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import logo from '../img/logo.svg'
+import logo from 'https://lh5.googleusercontent.com/HwhPyfPfv2AnmyuHOZM287FPp2EEg_yCBqpFjGfMQxb5l-5qyFJGMNHVHFmvTSbGE5EDBn-J42pZelajFRAEDIJo1clKnPpLOV-DSIaXoi6aCH2DQk1OnL8cEEOhJlXwheszHxyL'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
