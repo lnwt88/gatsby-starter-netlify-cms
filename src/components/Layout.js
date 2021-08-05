@@ -14,7 +14,7 @@ const TemplateWrapper = ({ children }) => {
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
-
+        <meta name="google-site-verification" content="JboHphymCNdxnSJ5j3mnLzX-k1bHe-BEaRc-y7becCk" />
         <link
           rel="apple-touch-icon"
           sizes="180x180"
