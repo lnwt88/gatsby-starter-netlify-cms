@@ -1,19 +1,29 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: About
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+<!--StartFragment-->
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+# รู้จัก Blog9T
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+สวัสดีครับ ผมธีร์ (T) จาก [Blog9T](https://blog9t.blogspot.com/) นะครับ ในบล็อกนี้ จะพูดถึงเกี่ยวกับประสบการณ์ ความรู้ ที่ผมได้รับแล้วอยากนำมาแชร์ให้สำหรับผู้ที่สนใจในเรื่องคล้ายคลึงกัน เช่น SEO, Affiliate, Internet Marketing และอาจจะมีเรื่องที่มีสาระ ไม่มีสาระ ปะปนกันไป\
+\
+![Loading video](https://i.ytimg.com/vi/y_17g_0QO4o/sddefault.jpg#404_is_fine)[](https://www.youtube.com/embed/y_17g_0QO4o?enablejsapi=1&amp=1&playsinline=1&iv_load_policy=3)
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+[YouTube video](https://www.youtube.com/embed/y_17g_0QO4o?enablejsapi=1&amp=1&playsinline=1&iv_load_policy=3)คำถามที่มักจะถามกัน\
+*ทำไมถึงยังใช้ Blogger/Blogspot ?\
+- เนื่องจากบล็อกนี้เป็นจุดเริ่มต้นของการเริ่มศึกษาเกี่ยวกับการเขียนบล็อก ผมอยากให้มันเป็นหนึ่งในความทรงจำตลอดไปครับ\
+\
+*ทำไมถึงไม่จดโดเมน เป็น .com ?\
+- ส่วนตัวเคยคิดว่าจะจดโดเมนให้เป็นรูปเป็นร่าง ให้ดูจริงจังไปเลย แต่เนื่องจากผมไม่ได้เขียนตลอด อาจจะว่างๆแวะมาเขียนทีนึง กลัวว่าหากวันใดวันนึง ผมไม่ได้ต่ออายุโดเมนแล้ว ก็จะลืมกันไป ซึ่งผมอยากให้เข้าใจว่าบล็อกนี้ เริ่มมาจาก **[Blogger](https://blogger.com/)** ครับ\
+\
+*มุมต่อด้าน SEO สำหรับคุณคืออะไร ?\
+- สำหรับผม มองว่าเป็นเหมือนศาสตร์ความรู้อีกด้านหนึ่งที่ผมไม่เคยรู้มาก่อน เป็นอะไรที่ค่อนข้างท้าทาย เป็นสิ่งที่ไม่ตายตัว ต้องเรียนรู้ตลอดเวลา ซึ่งหลายอย่างถ้ามองให้ลึกลงไป ในแต่ละหัวข้อ มันมีให้ผมต้องศึกษาได้เรื่อยๆ ยกตัวอย่างเช่น SEO Onpage การปรับแต่งหน้าเว็บอย่างไรให้ส่งผลดีต่อ **SEO** ซึ่งรายละเอียดมีค่อนข้างเยอะ รวมถึงการลงลึกในส่วนของโครงสร้างเว็บ บางทีลงไปถึง การเขียน Code เลยครับ\
+\
+*คุณเริ่มต้นจากอะไร ?\
+- เนื่องด้วย ณ เวลานั้น ผมอยู่มัธยมต้น ความรู้เรื่องการลงทุน การเงินต่างๆ ผมแทบไม่มีความรู้เรื่อง แม้กระทั้งจดโดเมนยังไง โอนเงินยังไง ใช้บัตรเครดิตยังไง ผมเริ่มจากการลงแข่งทักษะวิชาการด้านคอมพิวเตอร์ โดยทักษะที่ลงแข่งคือการใช้งาน CMS, ซึ่งตอนนั้นก็เริ่มจาก Wordpress, Simple Machine Board (SMF) ซึ่งผมเคยทำเว็บบอร์ดมาเว็บนึง ไม่รู้มีคนรู้จักไหม มีชื่อว่า Kontumblog (คนทำบล็อก) โดยผมทำกับเพื่อนๆผมเอง เป็นบอร์ดที่ไว้พูดคุยเกี่ยวกับการทำบล็อก การทำเว็บ การหารายได้ทางอินเทอร์เน็ต จากนั้นผมก็สนใจเกี่ยวกับการหารายได้ทางอินเทอร์เน็ต หลายๆรูปแบบ ไม่ว่าจะเป็น Google Adsense, Amazon Affiliate, อื่นๆ ซึ่งอยู่ในหมวดหมู่ Affiliate เช่นเดียวกัน พอผ่านมาช่วงหนึ่งที่แนวทางของผมไม่สามารถไปต่อได้ (โดนแบน) จึงได้เว้นช่วงระยะเวลา ซึ่งระยะเวลาก็ผ่านมาพอสมควร จากนั้นผมก็ได้เข้าเรียนในสาขาวิชาวิศกรรมซอฟต์แวร์ ซึ่งเป็นความรู้อีกด้าน ที่ผมอยากจะนำมาต่อยอดจากช่วงมัธยม มีหลายสิ่งหลายอย่างที่ผมไม่เคยได้สำผัสมันมาก่อน ได้เปิดโลกอีกใบและได้สนุกกับมัน\
+และแล้วผมก็ลืม Blog9T ไปเลย 555 จนผมนึกขึ้นได้ว่า ผมเคยมี Blogspot/Blogger [รับทำ seo](https://blog9t.blogspot.com/p/where-to-get-seo.html) อยู่ ซึ่งมันเป็น Email ที่ผมใช้เป็นหลักอยู่แล้ว เลยเปิดเข้ามาดู พบว่า โหย หน้าตามันดูเก่ามากเลย 555 เลยอยากจะนำมาพัฒนาตามความรู้ที่ได้รับมา มีคลิปแฉตัวเอง\
+![Loading video](https://i.ytimg.com/vi/y_17g_0QO4o/sddefault.jpg#404_is_fine)[YouTube video](https://www.youtube.com/embed/y_17g_0QO4o?enablejsapi=1&amp=1&playsinline=1&iv_load_policy=3)ก็เลยได้พัฒนามาถึง Blog9T ใน Version ปัจจุบัน ซึ่งบล็อกนี้อาจจะเติมโตไปกับผมเองเช่นกัน ซึ่งผมไม่สามารถบอกอะไรได้ว่า มันจะยังอยู่ตลอดไปหรือเปล่า แต่ตราบใดที่ยังมี Blogger แน่นอน Blog9T จะอยู่กับคุณไปอีกนาน ฮ่าาาา
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+<!--EndFragment-->
